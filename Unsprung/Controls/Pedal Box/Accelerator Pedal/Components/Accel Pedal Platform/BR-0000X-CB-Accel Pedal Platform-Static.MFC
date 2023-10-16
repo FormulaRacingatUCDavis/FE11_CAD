@@ -1,0 +1,16 @@
+[StartTime]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=25s
+[SolverState]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=2
+[MainFrame]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDJFAAAAAHHCAAAAALPGAAAAAKEDAAAAA
+[ShowMin]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=No
+[SolverType]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=Linear Analysis
+[StudyType]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=0
+[StudyName]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=Static
+[Solver]
+BR-0000X-CB-Accel Pedal Platform-Static.MFC=Iterative
