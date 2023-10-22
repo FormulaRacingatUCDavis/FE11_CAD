@@ -1,0 +1,16 @@
+[StartTime]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=2s
+[SolverState]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=2
+[MainFrame]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEAGAAAAAHGCAAAAAMGHAAAAAKDDAAAAA
+[ShowMin]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=No
+[SolverType]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=Linear Analysis
+[StudyType]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=0
+[StudyName]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=Upright Static
+[Solver]
+BR-10001-BE-Brake Pedal Mount (Left)-Upright Static.MFC=Sparse
