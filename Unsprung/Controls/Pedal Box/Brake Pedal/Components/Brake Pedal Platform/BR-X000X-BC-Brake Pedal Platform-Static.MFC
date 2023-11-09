@@ -1,0 +1,16 @@
+[StartTime]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=18s
+[SolverState]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=2
+[MainFrame]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPEAGAAAAAHGCAAAAAMGHAAAAAKDDAAAAA
+[ShowMin]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=No
+[SolverType]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=Linear Analysis
+[StudyType]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=0
+[StudyName]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=Static
+[Solver]
+BR-X000X-BC-Brake Pedal Platform-Static.MFC=Iterative
